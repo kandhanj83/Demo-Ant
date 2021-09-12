@@ -1,0 +1,7 @@
+<?xml version = "1.0"?>
+<project name="HEllow" default ="info">
+<target name ="info">
+<echo>Kandha hellow world </echo>
+</target>
+</project>
+
